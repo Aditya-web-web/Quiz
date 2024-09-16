@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.option-button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.select{
+    background-color: blue;
+    color: white;
+}
+
+.red{
+    background-color: red;
+    color: white;
+}
+
+.green{
+    background-color: chartreuse;
+    color: white;
+}
+
